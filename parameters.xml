@@ -1,0 +1,15 @@
+<root>
+	<parameters>
+		<prodURL>jdbc:oracle:thin:@10.254.5.10:1521:BER1</prodURL>
+		<prodUSER>contour</prodUSER>
+		<prodPWD>contour7w</prodPWD>
+		
+		<stbURL>jdbc:oracle:thin:@10.254.5.11:1521:BER1</stbURL>
+		<prodUSER>contour</prodUSER>
+		<prodPWD>contour7w</prodPWD>		
+		
+		<insertTable>insert table</insertTable>
+		<sqlFullFilePath>d:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\ContourReports\test.sql</sqlFullFilePath>
+		<log4jPath>d:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\ContourReports\log4j.properties</log4jPath>
+	</parameters>
+</root>
